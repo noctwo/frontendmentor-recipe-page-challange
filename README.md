@@ -14,14 +14,15 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Screenshot
 
 Desktop:
-https://github.com/noctwo/frontendmentor-qr-code-challange/blob/main/frontendmentor-qr-challange-noctwo-screenshot.png
+https://github.com/noctwo/frontendmentor-recipe-page-challange/blob/main/frontendmentor-recipe-challange-desktop-screenshot-noctwo.png
 
 Mobile:
+https://github.com/noctwo/frontendmentor-recipe-page-challange/blob/main/frontendmentor-recipe-challange-mobile-screenshot-noctwo.png
 
 
 ### Links
 
-- Live Site URL: https://noctwo.github.io/frontendmentor-qr-code-challange/
+- Live Site URL: https://noctwo.github.io/frontendmentor-recipe-page-challange/
 
 
 ### Built with
