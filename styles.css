@@ -8,6 +8,7 @@ body{
   font-optical-sizing: auto;
   font-weight: 400;
   font-size: 16px;
+  line-height: 25px;
 }
 
 .content-wrapper{
@@ -30,6 +31,7 @@ img{
   background-color: hsl(330, 100%, 98%);
   border-radius: 15px;
   padding: 30px 20px 20px 20px;
+  margin: 30px 0 30px 0;
 
 }
 
@@ -37,7 +39,7 @@ h1{
   color: hsl(24, 5%, 18%);
   font-family: "Young Serif", serif;
   font-weight: 400;
-
+  line-height: 40px;
   font-size: 35px;
 
 }
@@ -45,7 +47,7 @@ h1{
 h2{
   font-family: "Young Serif", serif;
   color: hsl(14, 45%, 36%);
-  font-size: 25px;
+  font-size: 30px;
 
 }
 
@@ -88,7 +90,7 @@ ol > li::marker {
 }
 table{
   border-collapse: collapse;
-  width: 655px;
+  width: 100%;
   border-bottom: 2px solid white;
 }
 
@@ -112,5 +114,17 @@ hr{
 
   .content-wrapper{
     width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    border-radius: 0;
+  }
+
+  .text-wrapper{
+    padding: 0 30px 40px 30px;
+  }
+
+  img{
+    width: 100%;
+    border-radius: 0;
   }
 }
